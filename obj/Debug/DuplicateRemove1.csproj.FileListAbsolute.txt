@@ -1,0 +1,7 @@
+C:\Users\Beard Josef\Source\Repos\DuplicateRemove1\DuplicateRemove1\bin\Debug\DuplicateRemove1.exe.config
+C:\Users\Beard Josef\Source\Repos\DuplicateRemove1\DuplicateRemove1\bin\Debug\DuplicateRemove1.exe
+C:\Users\Beard Josef\Source\Repos\DuplicateRemove1\DuplicateRemove1\bin\Debug\DuplicateRemove1.pdb
+C:\Users\Beard Josef\Source\Repos\DuplicateRemove1\DuplicateRemove1\obj\Debug\DuplicateRemove1.csprojResolveAssemblyReference.cache
+C:\Users\Beard Josef\Source\Repos\DuplicateRemove1\DuplicateRemove1\obj\Debug\DuplicateRemove1.csproj.CoreCompileInputs.cache
+C:\Users\Beard Josef\Source\Repos\DuplicateRemove1\DuplicateRemove1\obj\Debug\DuplicateRemove1.exe
+C:\Users\Beard Josef\Source\Repos\DuplicateRemove1\DuplicateRemove1\obj\Debug\DuplicateRemove1.pdb
